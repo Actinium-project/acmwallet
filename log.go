@@ -17,7 +17,7 @@ import (
 	"github.com/Actinium-project/acmwallet/rpc/rpcserver"
 	"github.com/Actinium-project/acmwallet/wallet"
 	"github.com/Actinium-project/acmwallet/wtxmgr"
-	"github.com/Actinium-project/actrino"
+	actrino "github.com/Actinium-project/actrino"
 	"github.com/jrick/logrotate/rotator"
 )
 

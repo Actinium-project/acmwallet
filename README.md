@@ -67,7 +67,7 @@ Install the latest MSIs available here:
 
 https://github.com/Actinium-project/acmd/releases
 
-https://github.com/ltcsuite/ltcwallet/releases
+https://github.com/Actinium-project/acmwallet/releases
 
 ### Windows/Linux/BSD/POSIX - Build from source
 
@@ -163,14 +163,14 @@ Linux/BSD/POSIX (Installed from source):
 
 ```bash
 $ cp $GOPATH/src/github.com/Actinium-project/acmd/sample-ltcd.conf ~/.ltcd/ltcd.conf
-$ cp $GOPATH/src/github.com/ltcsuite/ltcwallet/sample-ltcwallet.conf ~/.ltcwallet/ltcwallet.conf
+$ cp $GOPATH/src/github.com/Actinium-project/acmwallet/sample-ltcwallet.conf ~/.ltcwallet/ltcwallet.conf
 $ $EDITOR ~/.ltcd/ltcd.conf
 $ $EDITOR ~/.ltcwallet/ltcwallet.conf
 ```
 
 ## Issue Tracker
 
-The [integrated github issue tracker](https://github.com/ltcsuite/ltcwallet/issues)
+The [integrated github issue tracker](https://github.com/Actinium-project/acmwallet/issues)
 is used for this project.
 
 ## GPG Verification Key

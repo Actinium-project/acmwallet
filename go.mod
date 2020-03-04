@@ -6,11 +6,11 @@ require (
 	github.com/Actinium-project/acmd v0.0.25
 	github.com/btcsuite/btclog v0.0.0-20170628155309-84c8d2346e9f
 	github.com/Actinium-project/acmutil v0.0.17
-	github.com/Actinium-project/acmwallet/wallet/txauthor v1.0.9
-	github.com/Actinium-project/acmwallet/wallet/txrules v1.0.9
-	github.com/Actinium-project/acmwallet/walletdb v1.2.9
-	github.com/Actinium-project/acmwallet/wtxmgr v1.0.9
-	github.com/Actinium-project/actrino v0.0.18
+	github.com/Actinium-project/acmwallet/wallet/txauthor v1.1.0
+	github.com/Actinium-project/acmwallet/wallet/txrules v1.1.0
+	github.com/Actinium-project/acmwallet/walletdb v1.3.0
+	github.com/Actinium-project/acmwallet/wtxmgr v1.1.0
+	github.com/Actinium-project/actrino v0.0.19
 	github.com/btcsuite/golangcrypto v0.0.0-20150304025918-53f62d9b43e8
 	github.com/btcsuite/websocket v0.0.0-20150119174127-31079b680792
 	github.com/davecgh/go-spew v1.1.1
