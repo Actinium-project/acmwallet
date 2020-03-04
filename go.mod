@@ -6,10 +6,10 @@ require (
 	github.com/Actinium-project/acmd v0.0.22
 	github.com/Actinium-project/acmlog v0.0.1
 	github.com/Actinium-project/acmutil v0.0.15
-	github.com/Actinium-project/acmwallet/wallet/txauthor v0.0.0-20200302180510-5ca275e942bd
-	github.com/Actinium-project/acmwallet/wallet/txrules v0.0.0-20200302180510-5ca275e942bd
-	github.com/Actinium-project/acmwallet/walletdb v0.0.0-20200302180510-5ca275e942bd
-	github.com/Actinium-project/acmwallet/wtxmgr v0.0.0-20200302180510-5ca275e942bd
+	github.com/Actinium-project/acmwallet/wallet/txauthor v1.0.0
+	github.com/Actinium-project/acmwallet/wallet/txrules v1.0.0
+	github.com/Actinium-project/acmwallet/walletdb v1.2.0
+	github.com/Actinium-project/acmwallet/wtxmgr v1.0.0
 	github.com/Actinium-project/actrino v0.0.10
 	github.com/Actinium-project/acmlog v0.0.1
 	github.com/btcsuite/golangcrypto v0.0.0-20150304025918-53f62d9b43e8
