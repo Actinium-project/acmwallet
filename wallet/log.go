@@ -5,7 +5,7 @@
 package wallet
 
 import (
-	"github.com/btcsuite/btclog"
+	"github.com/Actinium-project/acmlog"
 	"github.com/Actinium-project/acmwallet/waddrmgr"
 	"github.com/Actinium-project/acmwallet/walletdb/migration"
 	"github.com/Actinium-project/acmwallet/wtxmgr"

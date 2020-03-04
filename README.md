@@ -2,9 +2,6 @@
 
 [![Build Status](https://travis-ci.org/Actinium-project/ltcwallet.png?branch=master)](https://travis-ci.org/Actinium-project/ltcwallet)
 [![Build status](https://ci.appveyor.com/api/projects/status/88nxvckdj8upqr36/branch/master?svg=true)](https://ci.appveyor.com/project/jrick/acmwallet/branch/master)
-=======
-# ltcwallet
-
 [![Build Status](https://travis-ci.org/ltcsuite/ltcwallet.png?branch=master)](https://travis-ci.org/ltcsuite/ltcwallet)
 [![Build status](https://ci.appveyor.com/api/projects/status/88nxvckdj8upqr36/branch/master?svg=true)](https://ci.appveyor.com/project/jrick/ltcwallet/branch/master)
 

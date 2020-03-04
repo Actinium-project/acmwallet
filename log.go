@@ -11,7 +11,7 @@ import (
 	"path/filepath"
 
 	"github.com/Actinium-project/acmd/rpcclient"
-	"github.com/btcsuite/btclog"
+	"github.com/Actinium-project/acmlog"
 	"github.com/Actinium-project/acmwallet/chain"
 	"github.com/Actinium-project/acmwallet/rpc/legacyrpc"
 	"github.com/Actinium-project/acmwallet/rpc/rpcserver"

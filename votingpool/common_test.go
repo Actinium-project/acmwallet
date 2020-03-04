@@ -10,7 +10,7 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/btcsuite/btclog"
+	"github.com/Actinium-project/acmlog"
 	"github.com/Actinium-project/acmwallet/waddrmgr"
 	"github.com/Actinium-project/acmwallet/walletdb"
 )

@@ -20,7 +20,7 @@ import (
 
 	"google.golang.org/grpc/grpclog"
 
-	"github.com/btcsuite/btclog"
+	"github.com/Actinium-project/acmlog"
 )
 
 // UseLogger sets the logger to use for the gRPC server.
